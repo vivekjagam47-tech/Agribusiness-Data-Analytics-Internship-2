@@ -44,3 +44,11 @@ The report includes:
 ## Conclusion
 
 The visualizations make it easier to understand agricultural production trends and compare production levels among different crops. The project demonstrates the use of data visualization techniques for clear and effective agribusiness reporting.
+
+## Power BI Dashboard
+
+### Agribusiness Performance Dashboard
+
+![Agribusiness Performance Dashboard](Screenshot%202026-08-20%20151643.png)
+
+The dashboard analyzes crop yield, production efficiency, profit margin, market price realization, water-use efficiency, input cost, and post-harvest loss across different seasons.
